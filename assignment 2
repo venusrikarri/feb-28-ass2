@@ -1,0 +1,6 @@
+list=[1,2,7,8,7,7,3,8,2,6]
+repet=[]
+for i in list:
+    if i not in repet:
+        repet.append([i])
+print(repet[i])
